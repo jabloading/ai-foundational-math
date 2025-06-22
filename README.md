@@ -16,20 +16,21 @@ Word problem reasoning
 
 ## If You’re Not There Yet — Start Here:
 
-Khan Academy – Arithmetic
-Khan Academy – Pre-Algebra
-Khan Academy – Algebra 1
-Spend 1–2 weeks brushing up if needed — then move on with confidence!
+- [Khan Academy – Arithmetic](https://www.khanacademy.org/math/arithmetic)
+- [Khan Academy – Pre-Algebra](https://www.khanacademy.org/math/pre-algebra)
+- [Khan Academy – Algebra 1](https://www.khanacademy.org/math/algebra)
+
+ Spend 1–2 weeks brushing up if needed — then move on with confidence!
 
 ## Table of Contents:
 
-Linear Algebra
-Calculus
-Probability & Statistics
-Discrete Mathematics & Logic
-Cheat Sheets
-Suggested Learning Order
-Bonus: AI-Focused Math Courses
+1. [Linear Algebra](#1-linear-algebra)
+2. [Calculus](#2-calculus)
+3. [Probability & Statistics](#3-probability--statistics)
+4. [Discrete Mathematics & Logic](#4-discrete-mathematics--logic)
+5. [Cheat Sheets](#5-cheat-sheets)
+6. [Suggested Learning Order](#6-suggested-learning-order)
+7. [Bonus: AI-Focused Math Courses](#7-bonus-ai-focused-math-courses)
 
 ## 1. Linear Algebra
 Essential for deep learning: tensors, matrix multiplication, transformations
@@ -47,7 +48,7 @@ Linear Transformations
 Eigenvalues and Eigenvectors
 Dot and Cross Product
 
-## Calculus
+## 2. Calculus
 Used in training models (gradients, derivatives, optimization)
 
 ### Learn:
@@ -64,7 +65,8 @@ Partial Derivatives
 Gradients
 Integrals
 Optimization
-3. Probability & Statistics
+
+## 3. Probability & Statistics
 Critical for understanding predictions, data distributions, and models
 
 ### Learn:
@@ -82,7 +84,7 @@ Normal Distributions
 Conditional Probability
 Confidence Intervals & Hypothesis Testing
 
-## 3. Discrete Mathematics & Logic
+## 4. Discrete Mathematics & Logic
 Supports algorithms, symbolic AI, and theoretical understanding
 
 ### Learn:
@@ -109,7 +111,8 @@ Quick reference while studying or building projects
 📌 Probability for ML Cheat Sheet (Stanford)
 📌 KDnuggets Math Cheat Sheet Collection
 
-## 6. Suggested Learning Order (for Beginners)
+## 6. Suggested Learning Order
+
 Week	Focus	Hours/Day
 1–2	Algebra Refresher (Khan Academy)	1–2 hr
 3–4	Linear Algebra Basics + Vectors	1–2 hr
